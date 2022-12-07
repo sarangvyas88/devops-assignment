@@ -1,4 +1,4 @@
-# ViriCiti DevOps Assignment
+# Sarang DevOps Assignment
 ![](http://turnoff.us/image/en/before-devops-after-devops.png)
 
 ## Introduction
